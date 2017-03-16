@@ -1,6 +1,6 @@
 ---
 title: Lemon Cake
-date: 2017-01-06 00:00:00 Z
+date: '2017-01-06T00:00:00.000+00:00'
 categories:
 - Cakes
 featured_image: https://source.unsplash.com/NAN22eh754c/1920x1200

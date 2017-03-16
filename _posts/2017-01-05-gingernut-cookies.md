@@ -1,6 +1,6 @@
 ---
 title: Gingernut Cookies
-date: 2017-01-05 00:00:00 Z
+date: '2017-01-05T00:00:00.000+00:00'
 categories:
 - Cookies
 featured_image: https://source.unsplash.com/dZKiXR9FYcM/1920x1200

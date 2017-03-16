@@ -1,6 +1,6 @@
 ---
 title: Chocolate Cupcakes
-date: 2017-01-07 00:00:00 Z
+date: '2017-01-07T00:00:00.000+00:00'
 categories:
 - Cupcakes
 - Cakes
